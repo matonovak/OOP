@@ -38,6 +38,17 @@ public class App {
                     System.out.println("default");
             }
         }
+        int[] pole = new int[10];
+        for (int i = 0; i < pole.length; i++){
+            pole[i] = i;
+        }
 
+        for (int i = 0; i < pole.length; i++){
+            App.vypis(i);
+        }
+
+    }
+    public static void vypis(int a){
+        System.out.println(a);
     }
 }
