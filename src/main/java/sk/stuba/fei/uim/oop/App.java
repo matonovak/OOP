@@ -21,6 +21,7 @@ public class App {
         System.out.println(podielFloat);
 
         //kokot
+        //main
         if(celeCislo == 4) {
             System.out.println("true");
         } else {
