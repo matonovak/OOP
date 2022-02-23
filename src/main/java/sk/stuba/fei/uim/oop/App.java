@@ -20,6 +20,7 @@ public class App {
         float podielFloat = 2/3.0f;
         System.out.println(podielFloat);
 
+        //kokot
         if(celeCislo == 4) {
             System.out.println("true");
         } else {
